@@ -1,4 +1,9 @@
 venv
+./experiments/experiments.ipynd
 logs
 mcqgenrator.egg-info
 .env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
